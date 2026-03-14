@@ -64,4 +64,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ashish-kumar0](https://github.com/ashish-kumar0)
 
 ## Support
-For support, please open an issue in the GitHub repository or contact [email@example.com](mailto:email@example.com).
+For support, please open an issue in the GitHub repository or contact [ashishkumar26012005@gmail.com](ashishkumar26012005@gmail.com).
